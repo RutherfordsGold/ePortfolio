@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Robyn Crowhurst"
 title_separator          : "-"
 name                     : &name "Robyn Crowhurst"
@@ -26,16 +26,15 @@ author:
   avatar           : "profile.png"
   name             : "Robyn Crowhurst"
   pronouns         : # example: "she/her"  
-  bio              : "$#Itried"
+  bio              : "Working on it"
   location         : "Cape Town, South Africa"
   employer         : "University of Cape Town"
   uri              : # URL
   email            : "crwrob009@myuct.ac.za" 
-
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
