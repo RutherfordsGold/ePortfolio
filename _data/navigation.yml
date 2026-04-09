@@ -9,7 +9,7 @@
 
 main:
   - title: "CV"
-    url: /files/Robyn_Crowhurst_CV.pdf
+    url: /files/Robyn_Crowhurst_CV.pdf?export=download
 
   - title: "Publications"
     url: /publications/
