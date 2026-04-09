@@ -24,7 +24,7 @@ Education
 
 Work experience
 ======
-###Chemistry Research Assistant
+Chemistry Research Assistant
 * Centre for Supramolecular Chemistry Research, University of Cape
 Town (2024--Present)
 * Analysis of X-Ray diffraction data to solving crystal structures using ShelX
@@ -36,12 +36,12 @@ Kinetics.
 * Research includes Kinetics of Enclathration and Guest Exchange in host-guest systems using organic host compounds.
 * Responsible for maintaining the cleanliness and organisation of the laboratory, as well as organisation and labelling of chemical stores.
 
-##Volunteer Microbiology Research Assistant
+Volunteer Microbiology Research Assistant
 * Department of Molecular and Cell Biology, University of Cape Town (2023--2024)
 * Performed various tasks around the laboratory, such as running PCR tests, Gel Electrophoresis, DNA Extractions, Enzyme Kinetic Assays, preparation of buffer solutions, Gram Stains and Bradford Assays.
 * Assisted with cleaning of the laboratory and organisation of chemicals and other materials.
 
-##Volunteer: TEARS (The Emma Animal Rescue Society)
+Volunteer: TEARS (The Emma Animal Rescue Society)
 * (2013--2017)
 * Dedicated five years as a volunteer at TEARS cattery where I helped care for cats with FIV/AIDS
 
