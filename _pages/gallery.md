@@ -5,4 +5,4 @@ permalink: /gallery/
 author_profile: true
 ---
 
-This is the gallery!
+![Sid](images/me-on-siddy.png)
