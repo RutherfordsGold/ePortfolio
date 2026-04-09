@@ -5,4 +5,4 @@ permalink: /gallery/
 author_profile: true
 ---
 
-![Sid](../images/me-on-siddy.png)
+![Sid](ePortfolio/images/me-on-siddy.png)
