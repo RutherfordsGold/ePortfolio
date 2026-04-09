@@ -11,6 +11,5 @@ venue: 'Preprint'
 citation: 'Crowhurst, Robyn E. (2026).&quot; Absorption of volatile guests by a diol host compound: structures, kinetics of enclathration and decomposition.'
 
 ---
-Abstract
 
 The diol host 1,1-bis(4-hydroxyphenol)cyclohexane (DHPC) forms inclusion compounds with acetone, ethyl acetate and 1,4-dioxane. The kinetics of enclathration were measured by exposing the solid host to the vapour of each volatile guest. The structure of each host-guest compound was elucidated, and the activation energy of their decomposition was established.
