@@ -13,7 +13,7 @@ author_profile: true
 | ![Horses-2](https://rutherfordsgold.github.io/ePortfolio/images/IMG_9800.JPG) | ![Horses-1](https://rutherfordsgold.github.io/ePortfolio/images/IMG_9801.JPG) |
 | ![Ruffles-2](https://rutherfordsgold.github.io/ePortfolio/images/IMG_2691.JPG) | ![Sid-3](https://rutherfordsgold.github.io/ePortfolio/images/IMG_2686.JPG) |
 | ![Nella_1](https://rutherfordsgold.github.io/ePortfolio/images/IMG_7402.JPG) | ![Sid-2](https://rutherfordsgold.github.io/ePortfolio/images/90ef6dc0-a652-451f-ada3-2fda4f6a4980.jpg) |
-| [UAE-1](https://rutherfordsgold.github.io/ePortfolio/images/PalmJumirah.jpg)| ![Climbing_1](https://rutherfordsgold.github.io/ePortfolio/images/me-climbing.png) |
+| ![UAE-1](https://rutherfordsgold.github.io/ePortfolio/images/PalmJumirah.jpg)| ![Climbing_1](https://rutherfordsgold.github.io/ePortfolio/images/me-climbing.png) |
 | ![Sid-1](https://rutherfordsgold.github.io/ePortfolio/images/me-on-siddy.png) | ![Ruffles-1](https://rutherfordsgold.github.io/ePortfolio/images/me-on-ruffles.png) |
 | ![Lab-3](https://rutherfordsgold.github.io/ePortfolio/images/IMG_2928.jpg) | ![Lab-2](https://rutherfordsgold.github.io/ePortfolio/images/image3.jpeg) |
 | ![UAE-2](https://rutherfordsgold.github.io/ePortfolio/images/IMG_8558.jpg) | ![UAE-3](https://rutherfordsgold.github.io/ePortfolio/images/IMG_8570.jpg) |
