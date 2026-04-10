@@ -18,4 +18,5 @@ author_profile: true
 | ![Lab-3](https://rutherfordsgold.github.io/ePortfolio/images/IMG_2928.jpg) | ![Lab-2](https://rutherfordsgold.github.io/ePortfolio/images/image3.jpeg) |
 | ![UAE-2](https://rutherfordsgold.github.io/ePortfolio/images/IMG_8558.jpg) | ![UAE-3](https://rutherfordsgold.github.io/ePortfolio/images/IMG_8570.jpg) |
 | ![Me-1](https://rutherfordsgold.github.io/ePortfolio/images/IMG_2265.jpg) | ![Me-2](https://rutherfordsgold.github.io/ePortfolio/images/IMG_2189.jpg) |
+| ![Me-3](https://rutherfordsgold.github.io/ePortfolio/images/IMG_0571.jpg) | ![Me-2](https://rutherfordsgold.github.io/ePortfolio/images/IMG_1383.JPG) |
 
