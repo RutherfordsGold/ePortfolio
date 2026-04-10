@@ -20,4 +20,5 @@ I am a keen horse rider and enjoy participating in disciplines like show jumping
 Trickddog and Agility
 ========
 Dog agility and training is a big part of my life, I started agaility training in 2024 with my two Jack Russell Terriers with the Fish Hoek Agility Dogs club. During this time I've competed at many competions hosted by the South African Dog Agility Association (SADAA) as well as the Western Province Regional Trials 2024 and Boland Regional Trials in 2023 and 2024. Aside from agility and jumping, I also spend a lot of time teaching my dogs how to do tricks and have recieved the KUSA Elementary Trickdog title for both my dogs, as well as the other KUSA speciality titles "Barkour" and "My 2025 Trick Journey". 
+
 ![Agility-1](https://rutherfordsgold.github.io/ePortfolio/images/Agility-39.jpg)
