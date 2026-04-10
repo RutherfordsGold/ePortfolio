@@ -15,7 +15,7 @@ In my spare time I enjoy spending time in the garden, growing a wide variety of 
 
 Equestrian
 ==============
-I am a keen horse rider and enjoy participating in disciplines like show jumping, English mounted games, dressage and carriage driving. I am on the comittee of the South African Mounted Games Association (SAMGA) and Western Province Mounted Games Association (WPMGA), and have been involved in helping with the organisation of various events, such as Nations Team Championship 2023 hosted by South Africa and with a demonstration at the NAMPO Expo in 2025.
+I am a keen horse rider and enjoy participating in disciplines like show jumping, English mounted games, dressage and carriage driving. I am on the committee of the South African Mounted Games Association (SAMGA) and Western Province Mounted Games Association (WPMGA), and have been involved in helping with the organisation of various events, such as Nations Team Championship 2023 hosted by South Africa and with a demonstration at the NAMPO Expo in 2025.
 
 ![Sid-3](https://rutherfordsgold.github.io/ePortfolio/images/IMG_2514.JPG)
 
