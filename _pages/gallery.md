@@ -7,7 +7,7 @@ author_profile: true
 
 | ![Grad-2](https://rutherfordsgold.github.io/ePortfolio/images/Graduation 2.jpg) | ![Grad-1](https://rutherfordsgold.github.io/ePortfolio/images/Graduation 1.jpg) |
 | ![Agility-2](https://rutherfordsgold.github.io/ePortfolio/images/Dogs_025-111.jpg) | ![Agility-3](https://rutherfordsgold.github.io/ePortfolio/images/Dogs_025-45.jpg)|
-| ![Charlie-2](https://rutherfordsgold.github.io/ePortfolio/images/IMG_3315.JPG) | ![Charlie_1](https://rutherfordsgold.github.io/ePortfolio/images/IMG_3314.JPG) | 
+| ![Charlie-2](https://rutherfordsgold.github.io/ePortfolio/images/IMG_3315.JPG) | ![Charlie_1](https://rutherfordsgold.github.io/ePortfolio/images/IMG_3313.JPG) | 
 | ![Agility-4](https://rutherfordsgold.github.io/ePortfolio/images/Dogs_025-115.jpg) | ![Agility-5](https://rutherfordsgold.github.io/ePortfolio/images/Dogs_025-114.jpg) |
 | ![Hiking-1](https://rutherfordsgold.github.io/ePortfolio/images/ab1537f6-856e-41d7-9ce4-40cc7726a9cb.jpg) | ![Lab-1](https://rutherfordsgold.github.io/ePortfolio/images/IMG_9351.jpg) |
 | ![Horses-2](https://rutherfordsgold.github.io/ePortfolio/images/IMG_9800.JPG) | ![Horses-1](https://rutherfordsgold.github.io/ePortfolio/images/IMG_9801.JPG) |
