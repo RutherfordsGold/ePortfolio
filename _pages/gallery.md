@@ -9,7 +9,7 @@ author_profile: true
 | ![Agility-2](https://rutherfordsgold.github.io/ePortfolio/images/Dogs_025-111.jpg) | ![Agility-3](https://rutherfordsgold.github.io/ePortfolio/images/Dogs_025-45.jpg)|
 | ![Charlie-2](https://rutherfordsgold.github.io/ePortfolio/images/IMG_3315.JPG) | ![Charlie_1](https://rutherfordsgold.github.io/ePortfolio/images/IMG_3314.JPG) | 
 | ![Agility-4](https://rutherfordsgold.github.io/ePortfolio/images/Dogs_025-115.jpg) | ![Agility-5](https://rutherfordsgold.github.io/ePortfolio/images/Dogs_025-114.jpg) |
-| ![Hiking_1](https://rutherfordsgold.github.io/ePortfolio/images/ab1537f6-856e-41d7-9ce4-40cc7726a9cb.jpg) | ![Lab-1](https://rutherfordsgold.github.io/ePortfolio/images/IMG_5026.jpg) |
+| ![Hiking-1](https://rutherfordsgold.github.io/ePortfolio/images/ab1537f6-856e-41d7-9ce4-40cc7726a9cb.jpg) | ![Lab-1](https://rutherfordsgold.github.io/ePortfolio/images/IMG_9351.jpg) |
 | ![Horses-2](https://rutherfordsgold.github.io/ePortfolio/images/IMG_9800.JPG) | ![Horses-1](https://rutherfordsgold.github.io/ePortfolio/images/IMG_9801.JPG) |
 | ![Ruffles-2](https://rutherfordsgold.github.io/ePortfolio/images/IMG_2691.JPG) | ![Sid-3](https://rutherfordsgold.github.io/ePortfolio/images/IMG_2686.JPG) |
 | ![Nella_1](https://rutherfordsgold.github.io/ePortfolio/images/IMG_7402.JPG) | ![Sid-2](https://rutherfordsgold.github.io/ePortfolio/images/90ef6dc0-a652-451f-ada3-2fda4f6a4980.jpg) |
@@ -17,4 +17,5 @@ author_profile: true
 | ![Sid-1](https://rutherfordsgold.github.io/ePortfolio/images/me-on-siddy.png) | ![Ruffles-1](https://rutherfordsgold.github.io/ePortfolio/images/me-on-ruffles.png) |
 | ![Lab-3](https://rutherfordsgold.github.io/ePortfolio/images/IMG_2928.jpg) | ![Lab-2](https://rutherfordsgold.github.io/ePortfolio/images/image3.jpeg) |
 | ![UAE-2](https://rutherfordsgold.github.io/ePortfolio/images/IMG_8558.jpg) | ![UAE-3](https://rutherfordsgold.github.io/ePortfolio/images/IMG_8570.jpg) |
+| ![Me-1](https://rutherfordsgold.github.io/ePortfolio/images/IMG_2265.jpg) | ![Me-2](https://rutherfordsgold.github.io/ePortfolio/images/IMG_2189.jpg) |
 
